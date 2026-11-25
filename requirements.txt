@@ -1,0 +1,7 @@
+# GenAI and Agentic AI Bootcamp - Session 6. Same versions as Week 1.
+# Install inside a virtual environment:  pip install -r requirements.txt
+openai==2.44.0
+python-dotenv==1.2.2
+markdown-it-py==4.2.0
+jupyterlab==4.5.9
+ipykernel==7.3.0
